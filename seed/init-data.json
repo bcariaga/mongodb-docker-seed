@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Jujutsu Kaisen #9",
+        "price": 575.00,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquam elit et odio scelerisque, consequat."
+    },
+    {
+        "name": "Banana Fish #1",
+        "price": 1100.00,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquam elit et odio scelerisque, consequat."
+    },
+    {
+        "name": "Berserk #12",
+        "price": 575.00,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquam elit et odio scelerisque, consequat."
+    }
+]
